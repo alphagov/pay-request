@@ -1,0 +1,11 @@
+{
+  "testEnvironment": "node",
+  "testRunner": "jest-circus/runner",
+  "transform": {
+    "^.+\\.tsx?$": "ts-jest"
+  },
+  "testPathIgnorePatterns": [
+    "<rootDir>/lib/",
+    "<rootDir>/node_modules/"
+  ]
+}
