@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/alphagov/pay-request.svg?branch=master)](https://travis-ci.org/alphagov/pay-request)
 [![Known Vulnerabilities](https://snyk.io/test/github/alphagov/pay-request/badge.svg?targetFile=package.json)](https://snyk.io/test/github/alphagov/pay-request?targetFile=package.json)
 
+[![Npm latest version](https://img.shields.io/npm/v/@govuk-pay/request/latest.svg)](https://www.npmjs.com/package/@govuk-pay/request)
+
 Simple HTTP client for internal GOV.UK Pay services.
 
 Provides a consistent request language across disparate backend route styles.
