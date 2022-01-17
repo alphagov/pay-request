@@ -1,5 +1,7 @@
 # Pay request 🌐
 
+> As of January 2022 this repository is no longer actively maintained by the GOV.UK Pay team.
+
 [![Build Status](https://travis-ci.org/alphagov/pay-request.svg?branch=master)](https://travis-ci.org/alphagov/pay-request)
 [![Known Vulnerabilities](https://snyk.io/test/github/alphagov/pay-request/badge.svg?targetFile=package.json)](https://snyk.io/test/github/alphagov/pay-request?targetFile=package.json)
 
